@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import image from "../../assets/images/image1.svg";
+import image from "../../assets/images/ima.svg";
 import Header from "../Header";
 import Message from "../Message";
 import ChatBox from "../ChatBox";
