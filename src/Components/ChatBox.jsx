@@ -1,6 +1,6 @@
 import React from "react";
 import Banner from "./Banner";
-import search from "../assets/icons/Search.svg";
+import search from "../assets/icons/search.svg";
 import call from "../assets/icons/call.svg";
 import dot from "../assets/icons/Dot.svg";
 import main from "../assets/icons/Main.svg";
